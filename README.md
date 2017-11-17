@@ -8,3 +8,4 @@ Day 1:
  - create different types of react components
     - create class component which holds state and has available functions such as componentWillMount and componentDidUpdate
     - create stateless functional component which has neither internal component state nor lifecycle methods
+ - create tests using chai and enzyme
